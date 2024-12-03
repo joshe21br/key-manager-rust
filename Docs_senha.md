@@ -1,8 +1,3 @@
-Claro! Vamos criar uma documentação em Markdown (arquivo `.md`) detalhada para o seu código. 
-Vou organizar a documentação para cobrir as partes principais, explicando a funcionalidade, como rodar, e explicações adicionais sobre a implementação.
-
----
-
 # Gerenciador de Senhas em Rust
 
 Este projeto é um gerenciador de senhas simples em Rust, que usa criptografia AES-256 em modo CBC para armazenar e recuperar senhas de forma segura. 
@@ -166,6 +161,3 @@ Este gerenciador de senhas simples utiliza técnicas de criptografia para garant
 O banco de dados SQLite facilita o armazenamento e recuperação eficiente dos dados.
 
 ---
-
-Essa documentação oferece uma visão geral completa sobre o que o código faz e como usá-lo. 
-Se precisar de mais detalhes ou ajustes, é só avisar!
